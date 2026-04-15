@@ -1,0 +1,21 @@
+id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
+1,Blinding Lights,The Weeknd,pop,happy,0.8,171,0.75,0.8,0.1
+2,Sunflower,Post Malone,pop,happy,0.6,96,0.85,0.75,0.3
+3,Stay With Me,Sam Smith,soul,sad,0.4,87,0.3,0.5,0.6
+4,Lose Yourself,Eminem,hiphop,intense,0.9,171,0.4,0.7,0.05
+5,Chill Lofi Rainy Day,Lo-Fi Dreamer,lofi,chill,0.3,75,0.55,0.45,0.95
+6,Neon Jungle,Synthwave Collective,electronic,energetic,0.85,128,0.65,0.9,0.05
+7,Acoustic Morning,Jake Rivers,folk,calm,0.25,95,0.7,0.35,0.98
+8,Pump It Up,Dance Kings,edm,energetic,0.95,140,0.7,0.95,0.02
+9,Midnight Blues,Clara Soul,blues,melancholic,0.35,72,0.25,0.4,0.7
+10,Feel Good Inc,Gorillaz,alternative,happy,0.7,138,0.6,0.78,0.15
+11,Golden Hour,JVKE,pop,romantic,0.65,94,0.9,0.7,0.4
+12,Bohemian Rhapsody,Queen,rock,epic,0.78,72,0.45,0.6,0.25
+13,Bad Guy,Billie Eilish,pop,dark,0.5,135,0.55,0.7,0.2
+14,Thunderstruck,AC/DC,rock,intense,0.92,133,0.5,0.65,0.05
+15,Ocean Eyes,Billie Eilish,indie,sad,0.3,84,0.4,0.35,0.7
+16,Levitating,Dua Lipa,pop,happy,0.82,103,0.8,0.88,0.1
+17,Sweater Weather,The Neighbourhood,indie,melancholic,0.55,121,0.45,0.65,0.45
+18,Redbone,Childish Gambino,soul,chill,0.5,96,0.6,0.55,0.35
+19,Mr. Brightside,The Killers,rock,energetic,0.8,148,0.6,0.7,0.1
+20,Perfect,Ed Sheeran,pop,romantic,0.45,95,0.85,0.5,0.85
